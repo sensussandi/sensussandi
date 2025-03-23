@@ -1,4 +1,4 @@
-![Banner]([(https://github.com/sensussandi/sensussandi/blob/main/Sensus.png))
+![Banner](https://github.com/sensussandi/sensussandi/blob/main/Sensus.png?raw=true)
 
 ### Hi 👋, I'm Sensus Sandi
 
