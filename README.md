@@ -4,7 +4,7 @@ I am an IT student at **Universitas Sanata Dharma**, specializing in Information
 
 ---
 ### 📫 Connect with me:
-[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/sen___nnbb)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/sen___nnb)
 
 ---
 
