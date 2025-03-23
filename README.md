@@ -4,7 +4,7 @@ I am an IT student at **Universitas Sanata Dharma**, specializing in Information
 ---
 
 ### 🌟 Projects:
-- **[Project 1]([https://github.com/sensussandi/project-1](https://github.com/sensussandi/Tugas4Bootsrap))**: KomikWeb
+- **[Project 1]([(https://github.com/sensussandi/Tugas4Bootsrap)])**: KomikWeb
 ---
 ### 📫 Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/sen___nnb)
