@@ -1,4 +1,4 @@
-![Banner](link-ke-gambar-anda)
+![Banner]([link-ke-gambar-anda](https://github.com/sensussandi/sensussandi/blob/main/Sensus.png))
 
 ### Hi 👋, I'm Sensus Sandi
 
