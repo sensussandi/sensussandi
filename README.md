@@ -7,6 +7,8 @@ I am an IT student at **Sanata Dharma University**, specializing in Information 
 ---
 ### 📫 Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/sen___nnb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sensussandi)
+
 
 ---
 <p align="left">
